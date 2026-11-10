@@ -1,0 +1,19 @@
+{
+  "name": "agent-ready-audit",
+  "owner": { "name": "Hardik Pahwa", "url": "https://github.com/hardikpahwaa" },
+  "metadata": {
+    "description": "Audit any product or website for the AI-agent era."
+  },
+  "plugins": [
+    {
+      "name": "agent-ready-audit",
+      "source": "./",
+      "description": "Scores how ready a product and website are for AI agents (ChatGPT, Claude, Perplexity, browser agents) to find, understand, use and pay for it, then gives a ranked fix list.",
+      "version": "1.0.0",
+      "author": { "name": "Hardik Pahwa" },
+      "homepage": "https://github.com/hardikpahwaa/agent-ready-audit",
+      "license": "MIT",
+      "keywords": ["aeo", "geo", "seo", "mcp", "ai-agents", "audit", "skill"]
+    }
+  ]
+}
