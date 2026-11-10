@@ -70,7 +70,7 @@ skills/agent-ready-audit/
 
 ## Credits
 
-Written by **Hardik Pahwa** (@hardikpahwa.ai). Built on methods from open-source work by Forter, AgriciDaniel, AgentReady, zubair-trabzada, Corey Haines and Anthropic, plus 2026 talks and videos from Ahrefs, Chrome for Developers, Google Cloud and others. Full list in [sources.md](skills/agent-ready-audit/references/sources.md).
+Written by **Hardik Pahwa** ([@hardikpahwa.ai](https://www.instagram.com/hardikpahwa.ai/)). Built on methods from open-source work by Forter, AgriciDaniel, AgentReady, zubair-trabzada, Corey Haines and Anthropic, plus 2026 talks and videos from Ahrefs, Chrome for Developers, Google Cloud and others. Full list in [sources.md](skills/agent-ready-audit/references/sources.md).
 
 ## License
 
